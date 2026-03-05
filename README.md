@@ -1,4 +1,4 @@
-# 🇮🇳 India Employment Trends — ML Analysis & Dashboard
+# India Employment Trends — ML Analysis & Dashboard
 
 <div align="center">
 
