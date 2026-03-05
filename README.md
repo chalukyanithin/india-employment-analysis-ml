@@ -12,7 +12,7 @@
 
 **A full-stack data science project analyzing India's employment landscape (2016–2025) across 5 sectors using Machine Learning, with an interactive Next.js analytics dashboard.**
 
-[📊 Live Demo](#) · [🤖 ML Notebook](#) · [📁 Dataset](#dataset) · [🚀 Quick Start](#quick-start)
+
 
 </div>
 
